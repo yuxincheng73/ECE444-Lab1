@@ -1,6 +1,6 @@
 # Yu Xin Cheng
 
-After making c1, c2 on rebase branch and c3, c4 on develop branch, I called "git rebase develop rebase". I also had to resolve some merge conflicts. 
+After making c1, c2 on rebase branch and c3, c4 on develop branch, I called "git rebase develop rebase". I also had to resolve some merge conflicts and run "git rebase --continue"
 ![Screenshot (29)](https://user-images.githubusercontent.com/50343180/133674890-d97cf05f-c037-4c53-bb3f-c12a0025bf70.png)
 
 
