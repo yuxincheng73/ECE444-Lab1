@@ -7,4 +7,3 @@ if __name__ == '__main__':
     ####
 
     print("commit 3")
-    print("commit 4")
